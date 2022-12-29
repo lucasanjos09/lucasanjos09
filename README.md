@@ -3,7 +3,7 @@
 Um apaixonado por tecnologia
 
 <hr>
-<h4>Sobre mim</h4>
+<h3>Sobre mim</h3>
 <br>
 :computer: Desenvolvedor e Pentester
 <br>
