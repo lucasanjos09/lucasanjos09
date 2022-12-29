@@ -2,8 +2,6 @@
 
 Um apaixonado por tecnologia
 
-<br>
-
 <hr>
 <h4>Sobre mim</h4>
 <br>
@@ -13,8 +11,6 @@ Um apaixonado por tecnologia
 <br>
 :coffee: Eu costumo estudar cada vez mais sobre programação e segurança da informação. São duas áreas fascinantes, a primeira por te dar o poder de construir qualquer coisa que vier à cabeça, a segunda pelo simples fato da informação ser o maior bem que o ser humano pode ter.
 <br>
-
-
 
 <br>
 
