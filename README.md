@@ -5,8 +5,9 @@
 
 <br>
 
-<h4>Sobre mim</h4>
 <hr>
+<h4>Sobre mim</h4>
+<br>
 :computer: Desenvolvedor e Pentester
 <br>
 :bulb: Curioso e sempre procuro entender o motivo das coisas
