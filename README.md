@@ -1,7 +1,7 @@
 <h1>Lucas Anjos</h1>
 
 <hr>
-<p>Um apaixonado por tecnologia
+Um apaixonado por tecnologia
 
 <br>
 
