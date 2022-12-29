@@ -26,7 +26,7 @@
 <br>
 
 <p align="center" width="100%">
-  <img src="Wallpaper05.png" alt="banner" width="100%"/>
+  <img src="Wallpaper05.png" alt="imagem" width="100%"/>
 </p>
 
 --> Keep Coding!
