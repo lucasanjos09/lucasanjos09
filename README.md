@@ -27,7 +27,7 @@
 <br>
 
 <p align="center" width="100%">
-  <img src="image.png" alt="imagem" width="100%"/>
+  <img src="imagem.png" alt="imagem" width="100%"/>
 </p>
 
 <p align="center">
