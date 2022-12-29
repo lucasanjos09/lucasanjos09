@@ -30,4 +30,6 @@
   <img src="Wallpaper05.png" alt="imagem" width="50%"/>
 </p>
 
+<p align="center">
 --> Keep Coding!
+</p>
